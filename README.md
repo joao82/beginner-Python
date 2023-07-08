@@ -2,13 +2,13 @@
 
 This repository contains the beginner to intermediate projects developed in python as part of a list of assignments of different courses taken on Udemy and Youtube channels, such as:
 
-- <span style="color:orange">Automated Software Testing with Python</span> by **Jose Salvatierra** from **Teclado**
-- <span style="color:orange">Web Developer Bootcamp with Flask and Python in 2023"</span> from **Teclado**
-- <span style="color:orange">Python Django - Complete Course</span> from **Dennis Ivy**
-- <span style="color:orange">ArjanCodes Youtube Channel</span> and
-- <span style="color:orange">Patrick Loeber Channel</span>
+- `Automated Software Testing with Python` by **Jose Salvatierra** from **Teclado**
+- `Web Developer Bootcamp with Flask and Python in 2023"` from **Teclado**
+- `Python Django - Complete Course` from **Dennis Ivy**
+- `ArjanCodes Youtube Channel` and
+- `Patrick Loeber Channel`
 
-This web apps are built using a Monolithic architecture in <span style="color:orange">HTML5, CSS3, Javascript, Django, Flask, Plotly Dash, Jinja2 and PyTorch</span>.
+This web apps are built using a Monolithic architecture in `HTML5, CSS3, Javascript, Django, Flask, Plotly Dash, Jinja2 and PyTorch`.
 
 ## 🔗 Live Sites URL:
 
@@ -63,13 +63,13 @@ This web apps are built using a Monolithic architecture in <span style="color:or
 
 ## 📌 What I Learn
 
-👉 Learn how to develop web apps in <span style="color:orange">Flask</span>.  
-👉 Learn how to develop web apps in <span style="color:orange">Django</span> using class based views.  
-👉 learn about integrating <span style="color:orange">Machine Learning</span> and <span style="color:orange">Data Science</span> concepts in a flask project.  
-👉 Learn how to structure a <span style="color:orange">plotly dash</span> app using intermediate/advanced design principles in python.  
-👉 Learn how to integrate <span style="color:orange">postgres databases</span> into python web apps.  
-👉 Learn automated testing using <span style="color:orange">Pytest</span>, unit tests, integration tests, system tests.  
-👉 Learn automated front-end testing using module <span style="color:orange">Playwright</span> in python to test the design concepts of an app.  
+👉 Learn how to develop web apps in `Flask`.  
+👉 Learn how to develop web apps in `Django` using class based views.  
+👉 learn about integrating `Machine Learning` and `Data Science` concepts in a flask project.  
+👉 Learn how to structure a `plotly dash` app using intermediate/advanced design principles in python.  
+👉 Learn how to integrate `postgres databases` into python web apps.  
+👉 Learn automated testing using `Pytest`, unit tests, integration tests, system tests.  
+👉 Learn automated front-end testing using module `Playwright` in python to test the design concepts of an app.  
 👉 Learn to plan such huge projects.
 
 ## 📬 Connect With Me
